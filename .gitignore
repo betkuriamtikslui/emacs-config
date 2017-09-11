@@ -1,0 +1,12 @@
+/elpa/
+/auto-save-list/
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+*.dat
+*.data
